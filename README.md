@@ -7,5 +7,4 @@ https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-in-agri
 Actually, even if i didn't partecipate at the hackathon, my solution would rank as 1st.
 
 
-
-*the code still needs to be cleaned
+\* *the code still needs to be cleaned*
